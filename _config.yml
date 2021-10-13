@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-dinky
 
 kramdown:
   syntax_highlighter_opts:
