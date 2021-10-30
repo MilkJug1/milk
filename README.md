@@ -31,5 +31,5 @@
 
 
 ## BLOGS
-[1st blog](milkjug1.github.io/blog/blog1)    
-[Blog 2](milkjug1.github.io/blog/blog2)
+[Blog 1](/blog/blog1)    
+[Blog 2](/blog/blog2)
