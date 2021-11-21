@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my website, that hosts my blog posts. Hope you enjoy it here, I will have more content soon. Blog posts are somewhat infrequent and will be updated occasionally. The website is under construction, so stuff might be different/missing from time to time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Socials**
+Github: [MilkJug](https://github.com/MilkJug1/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Twitter: [Water](https://twitter.com/sagan_crawford/)
+
+Youtube: [MilkJug](https://www.youtube.com/channel/UCQddmybOTQu_xz0Pl1sgwGQ)
+
+Discord: MilkJug#2230
+
+Discord Server: Will be up soon, just gotta work on it.
 
 
-[jekyll-organization]: https://github.com/jekyll
+**About me**
+
+Will be updated soon!
