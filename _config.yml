@@ -30,7 +30,7 @@ twitter_username: sagan_crawford
 github_username:  MilkJug1
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minma
 plugins:
   - jekyll-feed
 
