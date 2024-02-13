@@ -1,0 +1,19 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = "Milk's blog"
+theme = 'poison'
+paginate = 5
+
+
+[params]
+dark_mode = true  
+brand = "MilkJug1"
+description = "test..."
+github_url = "https://github.com/MilkJug1"
+youtube_url = "https://youtube.com/@MilkJug12"
+
+    menu = [
+        {Name = "About", URL = "/posts/about/", HasChildren = false},
+        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+    ]
+

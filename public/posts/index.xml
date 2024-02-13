@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Milk&#39;s website</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Milk&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2021 07:08:34 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Whole New Beginning</title>
+      <link>/posts/2021-12-14-21-blog3/</link>
+      <pubDate>Tue, 14 Dec 2021 07:08:34 -0500</pubDate>
+      
+      <guid>/posts/2021-12-14-21-blog3/</guid>
+      <description>Woah, its been a crazy couple months hasn&amp;rsquo;t it, at least for this website. Now If you don&amp;rsquo;t all ready see, this site has gone under some big changes, #1 is that the entire site has some form of a blog selection screen, bad thing is, it kind of looks ugly. This is going to be fixed soon, but since i&amp;rsquo;m working on a new project(will be mentioned later on in here) it may be a while before it comes, also trying to find a theme that works good with how this is, and also just looks nice is kind of hard to find.</description>
+      <content>&lt;p&gt;Woah, its been a crazy couple months hasn&amp;rsquo;t it, at least for this website. Now If you don&amp;rsquo;t all ready see, this site has gone under some big changes, #1 is that the entire site has &lt;em&gt;some&lt;/em&gt; form of a blog selection screen, bad thing is, it kind of looks ugly. This is going to be fixed soon, but since i&amp;rsquo;m working on a new project(will be mentioned later on in here) it may be a while before it comes, also trying to find a theme that works good with how this is, and also just looks nice is kind of hard to find. Now i&amp;rsquo;m not a webdev by &lt;strong&gt;any&lt;/strong&gt; means, so I really don&amp;rsquo;t know how to do any of this stuff, but I am trying to learn CSS, HTML, and JS so that this site can become better and have a much better look and feel.(and just feel like a website in general.)&lt;/p&gt;
+&lt;p&gt;So, where have I been these past couple of months, you may ask. Well i&amp;rsquo;ve been doing some projects (some haven&amp;rsquo;t been finished yet and is still in the process)&lt;/p&gt;
+&lt;p&gt;Well I have been dealing with school(unfortunely) and doing a couple of projects, one of them, as you may have seen on my &lt;a href=&#34;https://www.youtube.com/channel/UCQddmybOTQu_xz0Pl1sgwGQ&#34;&gt;Youtube Channel&lt;/a&gt; was that I announced a project called &amp;ldquo;&lt;a href=&#34;https://github.com/MilkJug1/OculusLinkLinux&#34;&gt;Oculus Link for Linux&lt;/a&gt;&amp;rdquo;, which judging by its name, does &lt;em&gt;exactly&lt;/em&gt; what is does. Also, yes I will still be calling the &amp;ldquo;Meta Quest&amp;rdquo;, by its former brand Oculus, sounds better than &amp;ldquo;Meta&amp;rdquo; to be honest.&lt;/p&gt;
+&lt;p&gt;At the very moment, there is nothing on the repo, but there is a separate repo for a fork of popular Quest app called ALVR, now this will be the basis for this project, since I really have no idea how this piece of software works. I am trying to reverse engineer Oculus Link, which will be having a update to this blog soon so come back soon!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Anyways&lt;/em&gt;, with that out of the way, what else have I been doing, well one of them was learning a PCB editor called KiCad. Now the reason for it, well I work with Arduino&amp;rsquo;s for robotics, now my teacher had to make a seperate PCB design for the bluetooth module and the OLED screen that we had for it, now it was for a way for us to drive it with our phones and see the output that came from the app and more. Well it was a pain to put on and take out when we needed it, since we have like 2 different PCB&amp;rsquo;s for this. One was a motor board from Adafruit and our own teachers design, so I decided that I wanted to merge them together and see if it were to work. The issue, I don&amp;rsquo;t really know how to use KiCad and what exact parts both Adafruit and my teacher used for this(that&amp;rsquo;s actually kinda easy since its just a couple pin headers and 2 capacitors).&lt;/p&gt;
+&lt;p&gt;There will be updates to these 2 projects in my blog so stay tuned for that.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Well? Is that it?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Not necessarily, another blog will be coming out for ORLL(Oculus Link for Linux) talking about how I want the release cycle, and more to come. I didn&amp;rsquo;t want to fit it all in here since I didn&amp;rsquo;t want to make this &lt;em&gt;too&lt;/em&gt; long, and that I have other points that I want to touch on. Anyways, I do stream what I am doing on my channel, my most recent one was something about looking at &amp;ldquo;decompiled&amp;rdquo; Oculus apps(mostly exe&amp;rsquo;s that I found in the files) trying to get a gist on how Oculus Link works. With that all out of the way I want to make an important announcement about ORLL which is,&lt;em&gt;if any person out there has information on how Oculus Quest works(not just Oculus Link) Please feel free to send me websites, photos, and more on how the Oculus Quest works, it would be greatly appricated, I really can&amp;rsquo;t find any kind of good sources for the Oculus Quest and how it fully works. Which is why at first, this will be a modified fork of ALVR&lt;/em&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/posts/2021-10-28-blog1/</link>
+      <pubDate>Sun, 21 Nov 2021 15:05:12 -0500</pubDate>
+      
+      <guid>/posts/2021-10-28-blog1/</guid>
+      <description>What is this and What is it going to be used for
+At the moment, I am still trying to figure it out, also what to use to really build this website. I really don&amp;rsquo;t know HTML, JS, CSS (Tried it once before, didn&amp;rsquo;t like it) I&amp;rsquo;m hoping to build this in WASM since I know that. Yeah, like you saw at the start, this page has more stuff coming, please wait and stay tuned, i&amp;rsquo;m working very hard for the next release.</description>
+      <content>&lt;p&gt;&lt;strong&gt;What is this and What is it going to be used for&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At the moment, I am still trying to figure it out, also what to use to really build this website. I really don&amp;rsquo;t know HTML, JS, CSS (Tried it once before, didn&amp;rsquo;t like it)
+I&amp;rsquo;m hoping to build this in WASM since I know that. Yeah, like you saw at the start, this page has more stuff coming, please wait and stay tuned, i&amp;rsquo;m working very hard for the next release.&lt;/p&gt;
+&lt;p&gt;Created on 11/21/2021.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects I&#39;ve done and what I do.</title>
+      <link>/posts/2021-11-04-blog2/</link>
+      <pubDate>Sun, 21 Nov 2021 03:54:12 -0500</pubDate>
+      
+      <guid>/posts/2021-11-04-blog2/</guid>
+      <description>Well this is going to be a weird start, now that I am able to post blogs, its going to feel weird the first couple of days.
+Some of you may not know who I am, if not then I guess you haven&amp;rsquo;t taken a look at my Github main page. For all who don&amp;rsquo;t know, I am a programmer (I think that&amp;rsquo;s super obvious), been doing it for a couple of years and I taught my self.</description>
+      <content>&lt;p&gt;Well this is going to be a weird start, now that I am able to post blogs, its going to feel weird the first couple of days.&lt;/p&gt;
+&lt;p&gt;Some of you may not know who I am, if not then I guess you haven&amp;rsquo;t taken a look at my &lt;a href=&#34;https://github.com/MilkJug1&#34;&gt;Github main page&lt;/a&gt;. For all who don&amp;rsquo;t know, I am a programmer (I think that&amp;rsquo;s super obvious), been doing it for a couple of years and I taught my self. I only know about probably 5 programming languages (C/C++, Python, Java, Rust, and more) Soon I am thinking about making another post about why I decided to learn programming, its kind of a depressive story to be honest.&lt;/p&gt;
+&lt;p&gt;I am a Linux, FOSS, and programming person(I don&amp;rsquo;t really know the exact word for it) and have been using Linux for the past couple of years, I&amp;rsquo;ve almost switched to Linux( All the games that I play work fine on Linux) I use Arch( or to be specific, &lt;a href=&#34;https://archcraft.io/&#34;&gt;ArchCraft&lt;/a&gt;) Archcraft is a nice distro to use, if you wanna use a window manager, but without the hassle of trying to mess with config files too much. I usually don&amp;rsquo;t have much time to customize a thing like that a lot so having it come pre-configured is a better timesaver (Plus these themes for OpenBox, Bspwm, DWM, and more are very nice), Anyways with that out of the way, Linux has been a game changer for me these past couple of years and I&amp;rsquo;ve loved it, much more than when I am on Windows.&lt;/p&gt;
+&lt;p&gt;Now for the past couple of weeks and or months, I have been working on a couple of projects. &lt;em&gt;some of which are still in the designing phase&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I for some reason start projects, do them(like research and all) for like a couple of days and then just forget to actually do them. It&amp;rsquo;s mostly because of school and other personal stuff that gets in the ways.&lt;/p&gt;
+&lt;p&gt;For the people who are interested on what the projects are, they are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;OS made in Rust, Because i wanted to see how hard it was.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arduino emulator for testing code before putting it onto the robot and wasting more time to set it up (trust me, after like the 15th time doing it; it gets kind of annoying)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Something to do with a raspberry pi&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(My biggest priority at the moment) a Oculus Link working on Linux&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That last one may surprise you since, why would anyone wanna do that.
+If you are on Linux and really love playing VR games, you kinda understand the pain of trying to play said games, since some of us can&amp;rsquo;t afford a Vive headset or a Valve Index in order to play on Linux, since some of us own a oculus headset and trying to get the Oculus Quests to work inside of Linux is a pain.&lt;/p&gt;
+&lt;p&gt;I wanna try and help alleviate that pain, since if Oculus isn&amp;rsquo;t going to do it, then who is? I been wanted to play VR games on Linux since I&amp;rsquo;ve switched to it a couple years ago. Kinda sucks that I have to switch to Windows(I have Single GPU pass-through configured for KVM/QEMU but its kinda borked again :( )&lt;/p&gt;
+&lt;p&gt;At the time of writing this, I haven&amp;rsquo;t been able to find a way to get it working on Linux through a cable or through Virtual Desktop.&lt;/p&gt;
+&lt;p&gt;Continuing on from that, I still have a couple of projects that I am pondering about, or deciding if I really want to do them. I usually have schoolwork so I can&amp;rsquo;t really put much time into some of this, its also one of the reasons why these projects get abandoned after so much time.&lt;/p&gt;
+&lt;p&gt;Anyways, I&amp;rsquo;m going to leave it there for now, will come back to this at a later time with a better post. So stay tuned for another post coming up!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>New things, stuff, and more</title>
+      <link>/posts/2022-1-22-blog4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-1-22-blog4/</guid>
+      <description>Well, Happy New Years everyone! When I was first writing this, it was a bit early, around the time New Years happened, this has gone under a ton of revisions and more.
+Anyways, welcome back to the blog, and yes the website has been updated, at least a tiny bit, I tried my best to find the best thing that looked nice, at first I was starting to try and use all of the Premade Github Pages theme(since thats how this website is hosted) and after like 2 days, I decided to go a different route.</description>
+      <content>&lt;p&gt;Well, Happy New Years everyone! When I was first writing this, it was a bit early, around the time New Years happened, this has gone under a ton of revisions and more.&lt;/p&gt;
+&lt;p&gt;Anyways, welcome back to the blog, and yes the website has been updated, &lt;em&gt;at least a tiny bit&lt;/em&gt;, I tried my best to find the best thing that looked nice, at first I was starting to try and use all of the Premade Github Pages theme(since thats how this website is hosted) and after like 2 days, I decided to go a different route.&lt;/p&gt;
+&lt;p&gt;Which was, albeit, a massive. fucking. challenge.  Now I am trying to remember something that happened like a month ago and basically, I tried to go the route of not having to make my own website theme, which would require me to learn HTML, CSS, and JS(Stuff that i&amp;rsquo;m not really fond of, execept HTML and CSS, they are fine tbh.)&lt;/p&gt;
+&lt;p&gt;For example, here is an old picture I found of an old theme that I was going to use:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/Images/image1.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/Images/screenshot_2.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;But, along with that you had this one. Which to be honest, I still kind of like. It won&amp;rsquo;t make me switch back, but it may force me to make an actual custom theme instead of relying on existing premade themes:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/Images/image3.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now I had already customized this one a whole lot, and it was almost going to become the theme. As you know now, it isn&amp;rsquo;t. I forget the main reason why I ditched it, I think it was because I couldn&amp;rsquo;t figure out the post layout and maybe thats why, looking back on it. I really should of made a note or doc describing each theme and explaining why I didn&amp;rsquo;t choose one.&lt;/p&gt;
+&lt;p&gt;Looking back on it after the whole website restructure, I did a lot of things wrong, like &lt;strong&gt;a lot&lt;/strong&gt; of things wrong.&lt;/p&gt;
+&lt;p&gt;Going into it, there is a lot to really unpack here so get ready to hear me blabber on.&lt;/p&gt;
+&lt;p&gt;So, most of all of this took a good couple of months, which explains the long wait for the last post. Since it took literally forever to get the og theme back, and have it all in a way that I like. Now, im sure i am glossing over a lot of things, thats to be expected, since im not really a webdev, so a lot of these things are just very confusing&lt;/p&gt;
+&lt;p&gt;So it all started from a &lt;a href=&#34;https://www.youtube.com/watch?v=EmSrQCDsMv4&#34;&gt;Learning Jekyll/Github Pages tutorial&lt;/a&gt;, where I was trying to learn how to install a theme and how jekyll works, which did help me to be honest. Next was trying to &lt;em&gt;find&lt;/em&gt; and &lt;em&gt;install&lt;/em&gt; one, which was a &lt;em&gt;fucking nightmare&lt;/em&gt;. Like I really mean it, both ruby&amp;rsquo;s bundler(at least thats what I think it comes from) and jekyll could not load or even apply a theme that I installed from both bundler, jekyll, or ruby. Which really confused me, since that I was following another tutorial(that i cant&amp;rsquo;t seem to find) which was telling me how to use bundler, ruby, and even jekyll. After I got that figured out, I needed to customize the home page, which I couldn&amp;rsquo;t find the original source of the downloaded theme, from ruby, &lt;em&gt;anywhere&lt;/em&gt;. Which just pissed me off, since like I was just trying to apply a simple theme, I really didn&amp;rsquo;t expect it to basically put me into a part-time job. By this point, it had already been like 3 weeks, and I was really starting to get tired of this whole thing. So after I figured out how Jekyll worked (again, thanks ArchWiki!) I decided to download the source code of a theme, and then have it use that, which actually worked! Well, &lt;em&gt;somewhat&lt;/em&gt; at least.&lt;/p&gt;
+&lt;p&gt;In order for a remote theme to work, you had to specificly define it inside of the &amp;ldquo;_config.yml&amp;rdquo; file and, I think, the Gemfile. Which if you know any form of a language that has its own package manager can be hell for you. For example, you had to install both bundler and jekyll from ruby(so you had like 2 different package managers for this which already confused me, coming from Rust at least)&lt;/p&gt;
+&lt;p&gt;Now, you may be asking, What the hell is a Gemfile and a config.yml file?&lt;/p&gt;
+&lt;p&gt;Well to shorten it up, a gemfile is a file that is used to describe the gem dependencies required to execute associated Ruby code. Now a config.yml comes from jekyll that you need to edit for more weird things to handle with your website.&lt;/p&gt;
+&lt;p&gt;With that all in mind tho, the very next issue was bundler, which was the longest, weirdest, and hardest issues to fix. If you recall back to when I installed a remote theme, I explained that I put in into the root directory of the website folder, since thats jekyll wanted me to do it, well, you had to define it inside of the config.yml(as I said above), which also needed its own ruby dependencies, which caused its own hoop of things. &lt;del&gt;Number 1 was that, any change that I made to the gemfile, would break the bundler when it tried to fetch literally anything. Would just pop up with this weird comment:&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;this error that you see here is really a different error compared to the other weird dependencies issues. Its a &lt;strong&gt;whole&lt;/strong&gt; another issue to talk about&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Configuration file: /home/milk/Programming/milkjug1.github.io/_config.yml
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;            Source: /home/milk/Programming/milkjug1.github.io
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;       Destination: /home/milk/Programming/milkjug1.github.io/_site
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; Incremental build: disabled. Enable with --incremental
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      Generating... 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      Remote Theme: Using theme abhinavs/moonwalk
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;       Jekyll Feed: Generating feed &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; posts
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                    &lt;span style=&#34;color:#66d9ef&#34;&gt;done&lt;/span&gt; in 0.813 seconds.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;jekyll 3.9.0 | Error:  no implicit conversion of Hash into Integer
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;/home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/pathutil-0.16.2/lib/pathutil.rb:502:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;read&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;: no implicit conversion of Hash into Integer (TypeError)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/pathutil-0.16.2/lib/pathutil.rb:502:in `read&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/utils/platforms.rb:75:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;proc_version&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/utils/platforms.rb:40:in `bash_on_windows?&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/build.rb:77:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;watch&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/build.rb:43:in `process&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/serve.rb:93:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;block in start&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/serve.rb:93:in `each&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/serve.rb:93:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;start&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/lib/jekyll/commands/serve.rb:75:in `block (2 levels) in init_with_program&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;block in execute&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;execute&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;program&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/gems/jekyll-3.9.0/exe/jekyll:15:in `&amp;lt;top (required)&amp;gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/bin/jekyll:25:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;load&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /home/milk/Programming/milkjug1.github.io/vendor/cache/ruby/3.0.0/bin/jekyll:25:in `&amp;lt;top (required)&amp;gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli/exec.rb:58:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;load&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli/exec.rb:58:in `kernel_load&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli/exec.rb:23:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;run&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli.rb:477:in `exec&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/vendor/thor/lib/thor/command.rb:27:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;run&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/vendor/thor/lib/thor.rb:392:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;dispatch&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli.rb:31:in `dispatch&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/vendor/thor/lib/thor/base.rb:485:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;start&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/cli.rb:25:in `start&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/exe/bundle:49:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;block in &amp;lt;top &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;required&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/lib/bundler/friendly_errors.rb:128:in `with_friendly_errors&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/exe/bundle:37:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;&amp;lt;top &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;required&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/exe/bundler:4:in `load&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.26/exe/bundler:4:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;&amp;lt;top &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;required&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;&amp;gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;        from /usr/bin/bundler:23:in `load&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        from /usr/bin/bundler:23:in &lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;&amp;lt;main&amp;gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This is the entire error that got called when I ran, or tried to run&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;bundler exec jekyll serve
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Which is how is the main program for allowing me to write markdown text and have it be displayed on a website.&lt;/p&gt;
+&lt;p&gt;This was one of the weirdest errors i&amp;rsquo;ve gotten from jekyll and this one was a pretty hard one to fix, since that I swear im just the only one that has had this issue, because every &amp;ldquo;fix&amp;rdquo; doesn&amp;rsquo;t fix it. It actually makes it worse which is not what you really want to be honest.&lt;/p&gt;
+&lt;p&gt;After a while, this kept happening over and over again which was really not a good thing, since I had just finished blog3 when I was starting to get all of this done. After like 3 days of looking this error up, I found one that said that I needed to switch to ruby2.7. It &lt;em&gt;somewhat&lt;/em&gt; fixed it, I mean by somewhat it just muffled it. Now it was really a good thing to do since it stopped the issue from happening so much. Which is when I posted blog #3. I hadn&amp;rsquo;t figured out a theme by this point and I just really wanted to get a blog out.&lt;/p&gt;
+&lt;p&gt;Unfortunely at the moment, I can&amp;rsquo;t seem to find a way to get the depency issue to arise.&lt;/p&gt;
+&lt;p&gt;I know that im going back to getting a theme but don&amp;rsquo;t worry, the end of this jekyll hell will end soon, With getting a them, which was the hardest part of all of this because since as we recall back up above &lt;em&gt;somewhere&lt;/em&gt; It was a bit weird, well here is going to be the technical part. So with a weird jekyll issue fixed(again somewhat), than came setting the theme of the website. So I had to go this weird route of finding a good theme, downloading the source of it, and then putting into the root directory of my website folder that I have. Which I already talked about, but rememember how that I said that no matter how installed it, it wouldn&amp;rsquo;t work. Well it was because of where ruby/bundler put the file(even tho I told it to get the theme from that directory, and I also had to define it to &lt;em&gt;USE&lt;/em&gt; that theme inside of the config.yml file.) Well, no matter which kind of theme that I had, it wouldn&amp;rsquo;t work sometimes. Since you need &lt;em&gt;NOT&lt;/em&gt; define a theme for any form of a custom theme inside the root directory in order for Jekyll to use it, which is very dumb to be honest.&lt;/p&gt;
+&lt;p&gt;Anyways, i&amp;rsquo;ll save my rant about jekyll for ANOTHER blog post since I don&amp;rsquo;t want to make this just about jekyll, since that would be probably boring and something you don&amp;rsquo;t really wanna read.&lt;/p&gt;
+&lt;p&gt;So what else have I been doing?&lt;/p&gt;
+&lt;p&gt;Well funny you ask that, I haven&amp;rsquo;t been doing too much(at least of importantance and how good it is) Basically i&amp;rsquo;ve been trying to work on OLL and see how oculus link works again, and drew a concept on how I wanna debug Link to see how it works. Which all starts with DLL injection, which sounds very weird to suggest that. During the livestream of &amp;ldquo;reverse engineering&amp;rdquo; the Oculus drivers for link, I found out that there is drivers for both the Oculus link and the Oculus quest and it made me wonder something; How could I use those .exe&amp;rsquo;s separately and independently from each other and see how each works together, trust me its not going to be a fun thing, but hey, its a start. It may work for helping me understand how Oculus Link works, since there is no form of documentation on the Oculus Quest, that wil actually help me understand how the device works. There is another thing that I know about the Oculus Quest,&lt;a href=&#34;https://github.com/facebookincubator/oculus-linux-kernel&#34;&gt;its an android device, which means its built upon linux, which i found the repo from Facebook(Technically Meta, but idgaf) that hosts their own build&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Which will help me since, there is gotta be something to do with the quest somewhere here. I just got to dig for it and unfortuntly it will be a while. Another thing i&amp;rsquo;ve been debating with my self on, and that is, How should this program be built. Should it be built on C/C++, Rust, should it be a GUI app or CLI app, how should it connect, and more.&lt;/p&gt;
+&lt;p&gt;With the current way that OLL is built, its made into its own different cores and modules. &lt;a href=&#34;https://github.com/MilkJug1/OculusLinkLinux/blob/main/About&#34;&gt;The About file inside of that repo does go into more detail,&lt;/a&gt; but to break it all down, rust can allow you to create a special kind of a project. Either one that can be run by  itself and me a program, while the other is going to be built like if it was a library for a project. I decided to break OLL into different sections and have different cores and modules.&lt;/p&gt;
+&lt;p&gt;The reason for this?&lt;/p&gt;
+&lt;p&gt;Well it all boiles down into how I want this project to be built, now if any of you recall from my OLL video, I mention about another open-source project called ALVR which aims to allow you to wireless stream games to from your pc, to your quest. I was thinking about using them, like their own program, and modifiy it so that it only works wired and then see what I can do from there.&lt;/p&gt;
+&lt;p&gt;I have to use them to get any form of info of how the damn device works, since they have a really good amount of documentation of how their software works and also how the quest works with this.&lt;/p&gt;
+&lt;p&gt;I wanted to take a couple pages on how they do things and see if I can incorpate it inside of my own repo as a way to, not only speed up development, make it easier to debug things.&lt;/p&gt;
+&lt;p&gt;Now the main/biggest point from this is what language should it be made with, and well its a bit of a double edge sword since that both languages have their own pros and cons that I both like and dislike equally, and that one is objectivly more easier to write in than the other, but could be a bit of a pain in the butt to actually do anything technical. I really am still deciding on this, but I did come up with a plan. The plan goes about like this, first make a concept of it in Rust(like working concept, just enough to ge t the basics down), then rewrite it again in C/C++. Now if I was going to use C/C++ i would need to learn Makefiles and CMakefiles, both of which im not very fond off and really don&amp;rsquo;t like(mainly CMake, I like Make a bit more).&lt;/p&gt;
+&lt;p&gt;Going away from OLL, what else is there?&lt;/p&gt;
+&lt;p&gt;Well there is me &lt;em&gt;trying&lt;/em&gt; to work on a couple of other side projects, one of them is having to envolve something to do with BGFX, a cross-platform graphics API. And the others, have to deal with me trying to make a phyiscs engine(just want to see if I can, and it looks like I cannot seem to find a tutorial on how to do this).&lt;/p&gt;
+&lt;p&gt;Also I have been learning about moblie app development for a bit at this point, the reason why I am learning app dev is really because my robotics club deals with arduino and that we still don&amp;rsquo;t have a offical way to drive the bots. Reason why, well the original app that we were using, took it down for some unknown reason.&lt;/p&gt;
+&lt;p&gt;Now i&amp;rsquo;ve been trying to learn android app development since I would feel like I could get around all of the short comings of the app that we used, unfortunely I can&amp;rsquo;t make an app for IOS(I could build an cross-platform app in c# to combat this) since A, I don&amp;rsquo;t have an IOS device and B, I don&amp;rsquo;t understand swift/what ever the language Apple uses for IOS.&lt;/p&gt;
+&lt;p&gt;Not really sure how I want to go about it, but I would like to make an app for my robotics club so that we have like, drivable robots. Now you may be asking, why don&amp;rsquo;t get some controllers. I asked our robotic teacher that and he basically said that we can&amp;rsquo;t since we would have to buy like 10, and depending on what they are that could be expensive, but also we would have to modify the bluetooth module so that it could work with it. Not to mention the code that would have to be re-written so that the controller could function with it.&lt;/p&gt;
+&lt;p&gt;Anyways, that about sums it up. Thank you guys for reading this post and actually coming here, and also thanks for the wait. More longer blog posts are coming, it will just be when I start a really complicated project, and trust me, they will be long.&lt;/p&gt;
+&lt;p&gt;So yeah, hope y&amp;rsquo;all  have a great day and I&amp;rsquo;ll see ya later, stay tuned for more things to come!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>School, Projects, and Me</title>
+      <link>/posts/2022-8-14-blog5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-8-14-blog5/</guid>
+      <description>WOW has it been a while, 7 months to be exact. Sorry about that, a lot of things got in my way, especially with the OLfL project, the open source project that I am trying to work on.
+Some of you may be wondering where have I been these past couple of months, well its a long story, and I have a lot to talk about. Plus some new stuff about OLfL that not even the discord knows.</description>
+      <content>&lt;p&gt;&lt;em&gt;WOW&lt;/em&gt; has it been a while, &lt;em&gt;7 months to be exact&lt;/em&gt;. Sorry about that, &lt;em&gt;a lot&lt;/em&gt; of things got in my way, especially with the OLfL project, the open source project that I am &lt;strong&gt;trying&lt;/strong&gt; to work on.&lt;/p&gt;
+&lt;p&gt;Some of you may be wondering where have I been these past couple of months, well its a long story, and I have a lot to talk about. Plus some new stuff about OLfL that not even the discord knows. Well, actually they may know by the time this comes out.&lt;/p&gt;
+&lt;p&gt;Now a while ago I did promise an update video 3 for OLfL, an unfortunately its in writer&amp;rsquo;s hell right now, since i&amp;rsquo;m trying to make it in a different way than I made my other ones. The last update video was a weird type of a script. Basically I just had bullet points on some of the stuff I wanted to talk about, and then just went more in depth for it.&lt;/p&gt;
+&lt;p&gt;I think the same thing can be said about the blog too, since it was in a similar spot to the video and I actually was going to do the video first before doing this, Another think was that the videos would be more brief but more quick, while the blog posts are a more in-depth thing. I still don&amp;rsquo;t know if I am going to do this, since it will take forever for one.&lt;/p&gt;
+&lt;p&gt;Now you may be wondering, where &lt;em&gt;is&lt;/em&gt; the Update video #3, its still in writer&amp;rsquo;s hell, i&amp;rsquo;m trying to become a better Youtuber, and that means putting more effort into the videos, like using scripts. I&amp;rsquo;m not used to doing that, but also that I want to make it &lt;em&gt;somewhat&lt;/em&gt; good, and become one of my better videos. Since as you know, the rest of my videos, &lt;em&gt;aren&amp;rsquo;t really edited&lt;/em&gt; &lt;strong&gt;at all&lt;/strong&gt;. I think that&amp;rsquo;s my video can not do as well, since there isn&amp;rsquo;t really any quality to them. One more thing about this is that, i&amp;rsquo;m not really good with writing, its kind of hard for me too. Even though I am in honors Eng its still kind of hard to do this, I guess I can talk better than I can write. So yeah, that&amp;rsquo;s one of the reasons why I haven&amp;rsquo;t been as active on the blog and or Youtube.&lt;/p&gt;
+&lt;h2 id=&#34;issues-i-have-been-having&#34;&gt;Issues I have been having&lt;/h2&gt;
+&lt;p&gt;So over the past couple months, I have been dealing with some medical, mental, and physical issues; and one of them actually made it harder to work on OLfL. If you are on the Discord server, you should know this. It&amp;rsquo;s mainly my eye, so for context, I have contacts, since I really can&amp;rsquo;t see. Now that&amp;rsquo;s not the bad thing. The bad thing is when my contacts indirectly caused my eyes to go bloodshot red, like a &lt;em&gt;deep&lt;/em&gt; red, it almost got to the point where it was such a &lt;em&gt;deep&lt;/em&gt; red, it looked like I was bleeding. The issue?(Disregarding the obviously bloody eye issue.) I &lt;em&gt;have&lt;/em&gt; to wear my contacts to play the Quest, since my frames for my glasses are way too wide to actually fit into the Quest, and I don&amp;rsquo;t have $70 to buy that one lens that has your prescription on it.&lt;/p&gt;
+&lt;p&gt;Now it had been happening for the past 4 months, which was interesting, since my family and me couldn&amp;rsquo;t really figure out what was going on. My parents chalked it up to my eyeballs not getting used to my contacts, something in my contacts, I needed to replace them, yadda yadda. 1 thing I would like to point out is that my eyes never felt itchy, scratchy, or whatnot. When I take out my contacts, I could just mainly feel the air hitting my eyeball and causing me to blink, which that isn&amp;rsquo;t a bad thing per se. I think that it&amp;rsquo;s normal for your eyeballs to be somewhat sensitive after having something on said eyeball.&lt;/p&gt;
+&lt;p&gt;Now, here&amp;rsquo;s where it got weird. I would go to school and already have my eyes pink/a &lt;em&gt;somewhat&lt;/em&gt; red, my teachers saw this, friends, and I even did. I started to make the joke that I high, since due to how pink my eyes were when I got to school. It would already looked like I was stoned, tack that on to the frizzy hair that I have in the morning, makes it worse. Even my coaches started to ask me what was going on to see if I had pink eye, since even they couldn&amp;rsquo;t grasp their heads around this. It was mainly more visual than actually affecting me, but it wasn&amp;rsquo;t until this summer I started to have a ton more issues with them.&lt;/p&gt;
+&lt;h3 id=&#34;part-2&#34;&gt;Part 2&lt;/h3&gt;
+&lt;p&gt;Summertime starts, we get out of school, and the sports goes on during this time. Basically we get to go to camps during the summer to stay active and just play some sports, now here is when I started to see a ton of issues. These were actually during the months of May-July. I&amp;rsquo;m in basketball, and this is where most of my issues arose, so during this time, we were just working out in the morning, and then later on actually practicing and or playing with the others. Obviously, you would have sweat running down your forehead, now I thought my eyes got red due to sweat. You know, an educated guess, since I didn&amp;rsquo;t have basketball on Wednesdays and Fridays, and it would seem to get better. So I decided to bring some contact solution and or artificial tears, in the event that my eyes get too much sweat. And unfortunately, it didn&amp;rsquo;t help. I would come out of the High School with really red eyes, my parents were concerned obviously. Then they made me start to wear them for a less amount of time, which is normal. This was fine for like a couple weeks, got taken to a doctor to get some eye drops due to how red my eye was one day, iirc it was the reddest it had ever been and it was scary. Then fast-forward to like a week ago, when I got taken to the eye doctor to ask questions about said contacts, said it could be allergies to the contact or other things. Then they decided to get me a different contact that is made out of something different than I already had. Right now, as of writing, I have not felt any issues with them.&lt;/p&gt;
+&lt;h2 id=&#34;oculus-link-for-linux&#34;&gt;Oculus Link for Linux&lt;/h2&gt;
+&lt;p&gt;So, during the summer, and when I had time, I was working on OLfL, and here is some of the new updates that are going to be coming, or already came to the main repo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Decided to not do flatpaks (for right now)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Had to do an android app, see below image for reason why
+&lt;img src=&#34;assets/Images/evidence.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sad thing is, no root available, so definitely does limit what I can do and what not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Android app will be in separate repo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Still deciding if I really want to do Qt, can do a basic wxWidgets thing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Removal of build(should come in later commit)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the &lt;code&gt;src&lt;/code&gt; dir has a different subfolder to handle Quest Usb&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am going to see if I can get some stuff to work without an android app, but mostly likely I have too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A brand new Readme file, Install.md file, and much more tidying up for the readme&amp;rsquo;s&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;COC and contributer guidelines coming soon&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After update video #4, concept video will come soon after it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some of us are trying to get some of the Oculus Programs to run through wine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ODH(Oculus Developer Hub) is another app that Oculus develops that allows us to see some debug logs of link and actual quest, along with gpu timings and more.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AND MANY MORE TO SOON COME.&lt;/p&gt;
+&lt;p&gt;Now I haven&amp;rsquo;t really been working on it that much, i&amp;rsquo;ve been too busy learning libusb, how the quest works, its sdks, figuring other issues, mental health, and much more. This was all alongside the many basketball games that I kept playing in, so it really decided to take up all of my time, but the times that I did have, I tried working on this.&lt;/p&gt;
+&lt;p&gt;Right now, I have nothing else to say about it, all I will say is the fact that I had to start from scratch again since I forgot to stash my changes to the cpp branch before having to format, and fortunately I lost all of my bad code but also the progress to getting quest working on usb, luckily i will have the chance to rewrite it again.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During the writing of this, I actually found out that the Oculus driver executables were updated to obfuscate(technically not used correctly here) parts of the code from being reverse engineered, with this in mind, it directly affected the single file that allowed me to find the &lt;em&gt;exact&lt;/em&gt; exe that handles everything with the Quest. Which looking at it now, could of fucking helped me here.&lt;/p&gt;
+&lt;h2 id=&#34;video-ideas&#34;&gt;Video Ideas&lt;/h2&gt;
+&lt;p&gt;During the writing of the OLfL update video 4, I decided to try and work on other videos that way I won&amp;rsquo;t get burnt out, but also so that I can improve my writing experience.&lt;/p&gt;
+&lt;p&gt;One such video is still being worked on as of the moment, which is a Minetest video.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s just going to be video talking about it, its differences between MTG and Minecraft, modding, and more.&lt;/p&gt;
+&lt;p&gt;Some of you may not even know what I am even talking about, for the unaware, Minetest is a open-source voxel game engine, has been since 2010.&lt;/p&gt;
+&lt;p&gt;From their wiki, it created in order to replicate Minecraft Alpha at the time all in C++&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The very first version of Minetest was intended to replicate what Minecraft Alpha had been shown to do at the time (2010)&lt;a href=&#34;https://wiki.minetest.net/FAQ#cite_note-1&#34;&gt;[1]&lt;/a&gt;. It&amp;rsquo;s goals soon diverged from Minecraft and eventually became a game engine instead.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Minetest isn&amp;rsquo;t a eyeopener when you first hear it and or see it, but it does have a fun modding community that can make MT act more like MC. So, what &lt;em&gt;exactly&lt;/em&gt; is MT, well like I said before MT is a open-source game engine that comes with a &amp;ldquo;game&amp;rdquo; called MTG, Minetest Game. It looks and functions really similar to minecraft alpha, but the good thing you can do is add on mods to said game, on a per world basis.&lt;/p&gt;
+&lt;p&gt;Now all of the mods run and are programmed via lua, an actual really easy language. During the time of writting this I was able to get some basic addon working, in like 5 minutes. Felt so easy, and was entirely better than dealing with Minecraft modding.&lt;/p&gt;
+&lt;p&gt;Here take a look:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/Images/MTaddon.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It actually was fairly easy to do with following, &lt;a href=&#34;https://rubenwardy.com/minetest_modding_book/en/index.html&#34;&gt;The Minetest Modding Book from RubenWardy, one of the main devs&lt;/a&gt;. Just take a look at the amount of lines it took just to do this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/Images/modding.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now this picture is from AstroNvim, and the yellow squares are because the lua stuff I have installed doesn&amp;rsquo;t know what Minetest is since you don&amp;rsquo;t have to include a minetest file or whatnot.&lt;/p&gt;
+&lt;p&gt;Now I just did this for fun, since I just felt like I could do it, and also to get a feel of MT modding. Along with the fact I just wanted to see how hard it was, and also how it was done, I actually was thinking about doing something with modding, but i&amp;rsquo;m not entirely sure yet. Though I do want to contribute to the Minetest project sometime soon so yea.&lt;/p&gt;
+&lt;h2 id=&#34;steam-deck&#34;&gt;Steam Deck&lt;/h2&gt;
+&lt;p&gt;As I was writing this blog post, I got an email from Steam to actually buy the 256GB model Steam Deck that I got, and reserved like a year ago. Actually, it was August 18, 2021, when I first reserved it, and its almost August 18, which is a bit weird to think about. And so I bought it, I can&amp;rsquo;t wait to actually mess with this.&lt;/p&gt;
+&lt;h2 id=&#34;school-things&#34;&gt;School Things&lt;/h2&gt;
+&lt;p&gt;Also during the writing of this, I started school a week ago(depending on when I posted, or when I posted this.)&lt;/p&gt;
+&lt;p&gt;Unfortunately, it has affected my daily life and schedule. One of the main reasons why I haven&amp;rsquo;t been working on OLfL was, that I am trying to prepare myself for school, and all of the shit that brings. Along with that, it is good to note that as of writing, I&amp;rsquo;m taking a lot of HS credit classes, I am doing Algebra II(pretty easy actually), Geometry(a bit harder than algebra II for right now), and Spanish along with ASL, plus some more to come. And this isn&amp;rsquo;t even including the amount of honors&amp;rsquo; classes I am also taking.&lt;/p&gt;
+&lt;p&gt;A little context, I have such a good understanding of math that its a bit weird to place me, as I am in stuff like decathlon and academic superbowl(bascially a baby version of decalthon, where there is a team for each subject), each takling an already high level of math, that is actually a bit above my current classes. It actually helps me later down the road, since my actual math teacher will cover it, but also my math coach for that stuff also will give me another way to look at it. Plus, with me in the past trying to make my own game engine(or something like that), I have dealt with Algebra II and some weird Linear Algebra.&lt;/p&gt;
+&lt;p&gt;Due to how I usually talk about school, I&amp;rsquo;m going to keep this section short, as to not dox myself, family, friends, and other peers here that know me. So yea, HS is going pretty good right now.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
