@@ -1,7 +1,6 @@
 ---
 title: "A Comeback"
 date: 2023-06-01T22:53:20-04:00
-draft: true
 ---
 ## Important note
 So this was originally written in August of 2023, I am now coming back to this around Feb of 2024 with an entire different outlook on life, school, programming, and many more things. I will still keep this around, but I will also include my current reaction to things at certain parts.
